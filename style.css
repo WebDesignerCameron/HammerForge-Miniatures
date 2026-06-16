@@ -1,0 +1,5 @@
+body{font-family:"Orbitron";background:black;color:white;}
+#maintitle{background:blue; outline:5px solid yellow; width:calc(100vw-2px);margin:auto;height:150px;color:white;}
+#mainp{font-size: 25; margin:5px;}
+#main2p{font-size: 15;}
+#style-button{background:white;width:31px;height:24px;}
